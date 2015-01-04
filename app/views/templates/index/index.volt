@@ -1,0 +1,1 @@
+<h1>Linxlad Phalcon Skeleton Application</h1>

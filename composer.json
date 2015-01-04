@@ -1,0 +1,9 @@
+{
+    "require": {
+        "php": ">=5.5",
+        "phalcon/devtools": "dev-master",
+        "phalcon/incubator": "dev-master",
+        "getsky/pretty-exceptions": "dev-master",
+        "polem/slack-notifier": "dev-master"
+    }
+}
