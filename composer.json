@@ -1,9 +1,14 @@
 {
+    "name": "Phalcon PHP Skeleton Application",
+    "license": "MIT",
+    "type": "project",
+    "description": "",
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.3.3",
         "phalcon/devtools": "dev-master",
         "phalcon/incubator": "dev-master",
-        "getsky/pretty-exceptions": "dev-master",
-        "polem/slack-notifier": "dev-master"
+        "guzzlehttp/guzzle": "~4.0",
+        "polem/slack-notifier": "dev-master",
+        "swiftmailer/swiftmailer": "@stable",
     }
 }
