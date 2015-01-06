@@ -1,5 +1,6 @@
 {
     "require": {
+        "php" : ">=5.3.9",
         "phalcon/devtools": "dev-master",
         "phalcon/incubator": "dev-master",
         "getsky/pretty-exceptions": "dev-master",
